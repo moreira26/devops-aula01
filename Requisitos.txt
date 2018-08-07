@@ -1,0 +1,18 @@
+	Requisitos do Jogo
+
+• Nome do projeto: GeetSpace
+
+• GeetpSpace deverá ser um jogo de cartas, onde o jogador tem o seu placar.
+
+• Requisitos do projeto:
+	? Ter cartas comuns no inicio do jogo.
+	? GeetSpace deverá ter o modo história
+	? o desenvolvimento deve respeitar as tecnologias pedidas pelo cliente.
+
+• Tecnologias obrigatórias:
+	? C#
+	? Azure
+	? Unity
+	? Firebase
+
+• Ao final do projeto, antes da entrada em operação deve ocorrer a apresentação ao cliente.
