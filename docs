@@ -1,4 +1,34 @@
 
+
+Hyan Siqueira Lopes da Silva
+
+C#
+1 – Lógica do jogo
+2 – aleatoriedade durante o game
+
+Azure
+1 – Servidor do jogo
+2 – Armazenamento de dados (Banco de dados)
+Unity 
+1 – Modelagem e física
+2 – Animações
+
+
+
+
+
+
+
+TESTE
+
+Design de cartas - ok
+
+Armazenamento de dados no azure - ok
+
+fisica do jogo - ok
+
+bug de fim de sessão (login) - nok
+=======
 #Brenda Santana
 
 #• Nome do projeto: GeetSpace
@@ -74,7 +104,6 @@
 
 #TESTE
 JOAO VICTOR NUNES DOS SANTOS 
-HELLEN MENDES BARBOSA
 
 #Design de cartas - ok
 
