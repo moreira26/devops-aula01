@@ -78,7 +78,10 @@ Função: entreterimento
 #o Squirtle Esquadrão capturar aEquipe Rocket / Team para roubar sua comida e Meowth convence
 #Squirtle para deixar ir e, eventualmente, para capturar Ash e seus amigos.
 
-#TESTE
+#TESTE - 	Joao Victor Nunes dos Santos - RA: 1801142
+		
+	
+	
 
 #Design de cartas - ok
 
